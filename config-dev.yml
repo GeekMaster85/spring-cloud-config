@@ -1,4 +1,4 @@
-walter: white1
+walter: white
 spring:
   rabbitmq:
     host: 192.168.6.8
